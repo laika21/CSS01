@@ -1,0 +1,33 @@
+
+#menu {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #999999;
+    height: auto;
+    width: 300px;
+}
+
+#title {
+    height: 40px ;
+    background: #FFA500;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align:center;
+    color: white;
+    line-height: 40px;
+    text-decoration: overline;
+}
+
+.menu-item {
+    height: 30px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+ .menu-item a {
+    text-decoration: none;
+    color: #333333;
+}
+
+#blog > a {
+    color: yellow;
+}
